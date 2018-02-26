@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BurcRehberi2</string>
+    <string name="tofiq">
+        \tYönetici yıldızınız: Mars\n\n
+\tGrubunuz: Ateş\n\n
+\tUğurlu gününüz: Salı\n\n
+\tUğurlu sayınız: 8\n\n
+\tUğurlu renginiz: Ateş kırmızısı\n\n
+\tUğurlu taşlarınız: Opal, elmas, safir\n\n
+\tUğurlu çicekleriniz: Lale, papatya\n\n
+\tUğurlu kokularınız: Manolya, lavanta, ıtır\n\n
+\tOlumlu özelliğiniz: Cesaret\n\n
+\tOlumsuz özelliğiniz: Acelecilik\n\n
+\tAnlaştığınız burçlar:Aslan, Yay\n\n
+\tAnlaşamadığınız burçlar: Yengeç, Terazi, Oğlak\n\n
+\tBaşarılı olacağınız meslekler: Politikacılık, yöneticilik, işletmecilik, mühendislik, ressamlık, müzisyenlik, oyunculuk\n\n
+\tBurcunuzdan olan ünlüler: Fatih Sultan Mehmet,Sakıp Sabancı, Descartes, Charlie Chaplin, Vincent Van Gogh, Zeki Alasya\n\n
+    </string>
+</resources>
