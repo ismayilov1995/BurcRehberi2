@@ -2,5 +2,8 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/baloo</item>
+        <item>@font/didact_gothic</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/wendy_one</item>
     </array>
 </resources>

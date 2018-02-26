@@ -60,10 +60,10 @@
         android:layout_width="match_parent"
         android:layout_height="2dp"
         android:layout_marginTop="80dp"
-        android:background="@color/colorPurple_A400"
+        android:background="@color/colorAccent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></View>
+        app:layout_constraintTop_toTopOf="parent"/>
 
 </android.support.constraint.ConstraintLayout>

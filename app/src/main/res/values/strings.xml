@@ -16,4 +16,6 @@
 \tBaşarılı olacağınız meslekler: Politikacılık, yöneticilik, işletmecilik, mühendislik, ressamlık, müzisyenlik, oyunculuk\n\n
 \tBurcunuzdan olan ünlüler: Fatih Sultan Mehmet,Sakıp Sabancı, Descartes, Charlie Chaplin, Vincent Van Gogh, Zeki Alasya\n\n
     </string>
+    <string name="logo">Logo</string>
+    <string name="burc_rehberi">BURC\nREHBERI</string>
 </resources>
